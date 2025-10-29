@@ -1,0 +1,10 @@
+﻿mysql/
+wordpress/
+*.sock
+*.pid
+*.log
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
